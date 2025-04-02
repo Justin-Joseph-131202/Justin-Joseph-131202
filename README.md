@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin Joseph</h1>
+<h1 align="center"> 👋 Hi, I am Justin Joseph</h1>
 <h3 align="center">A passionate Computer Engineer exploring Blockchain, AI and Secure Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justin-joseph-131202&label=Profile%20views&color=0e75b6&style=flat" alt="justin-joseph-131202" /> </p>
